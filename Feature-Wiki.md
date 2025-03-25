@@ -1,6 +1,6 @@
-# The Worst Programming Language Ever - Wiki
+# The LNX - Wiki
 
-Welcome to the wiki for "The Worst Programming Language Ever," a deliberately terrible programming language designed for maximum frustration and absurdity. This document lists all anti-features, their explanations, and examples where applicable. Feel free to add more anti-features using the same format!
+Welcome to the wiki for "**LNX - Lol Nope X**" a deliberately terrible programming language designed for maximum frustration and absurdity. This document lists all anti-features, their explanations, and examples where applicable. Feel free to add more anti-features using the same format!
 
 ## Anti-Features
 

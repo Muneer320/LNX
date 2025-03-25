@@ -1,7 +1,18 @@
-# Implementation Plan - The Worst Programming Language Ever
+# Implementation Plan - LNX
 
 ## Overview
-This document outlines the step-by-step plan to implement "The Worst Programming Language Ever," an intentionally frustrating and absurd programming language.
+This document outlines the step-by-step plan to implement The Worst Programming Language Ever, "**LNX - Lol Nope X**" an intentionally frustrating and absurd programming language.
+
+---
+
+## Current Status
+- [x] Step 0: Language Specification (`Feature-Wiki.md`)
+- [x] Step 1: Define the Language Specification
+- [ ] Step 2: Implement the Lexer
+- [ ] Step 3: Build the Parser
+- [ ] Step 4: Implement the Interpreter
+- [ ] Step 5: Develop a REPL (Interactive Shell)
+- [ ] Step 6: Testing and Debugging
 
 ---
 
@@ -77,5 +88,5 @@ This document outlines the step-by-step plan to implement "The Worst Programming
 - Announce to the world.
 - Await rage-fueled feedback.
 
-**Final Deliverable:** `The Worst Programming Language Ever - v1.0`
+**Final Deliverable:** `NPX - v1.0`
 
