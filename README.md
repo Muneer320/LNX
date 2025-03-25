@@ -36,17 +36,17 @@ A "Hello, World!" program in this nightmare:
 ```wpl
 // Salutations to Gandalf The Brown
 // I solemnly swear that this script is upto no good
-initialize_feature world_engine_from_krypton    // Long Live Aaron Swartz
-initialize_feature run_doom_on_frying_pan    // Long Live Aaron Swartz
-initialize_variable my3stringWithBigZandStuff equal_to definitely_false    // Long Live Aaron Swartz
-initialize_variable my3stringWithBigZandStuff equal_to definitely_false    // Long Live Aaron Swartz
-initialize_variable my3stringWithBigZandStuff equal_to "hello world"    // Long Live Aaron Swartz
-initialize_variable my3stringWithBigZandStuff equal_to "hello world"    // Long Live Aaron Swartz
-commence_functionality pri1ntSometHing [
-   output_to_console my3stringWithBigZandStuff    // Long Live Aaron Swartz
-   output_to_console my3stringWithBigZandStuff    // Long Live Aaron Swartz
-]
-pri1ntSometHing []    // Long Live Aaron Swartz
+initialize_feature world_engine_from_krypton    // Long Live Aaron Swartz, bless this run
+initialize_feature run_doom_on_frying_pan    // Long Live Aaron Swartz, bless this run
+initialize_variable my3stringWithBigZandStuff equal_to definitely_false      // Long Live Aaron Swartz, starting now
+initialize_variable my3stringWithBigZandStuff equal_to definitely_false      // Long Live Aaron Swartz, starting now
+initialize_variable my3stringWithBigZandStuff equal_to "hello world"         // Long Live Aaron Swartz, odd length
+initialize_variable my3stringWithBigZandStuff equal_to "hello world"         // Long Live Aaron Swartz, odd length
+commence_functionality pri1ntSometHing [                               // Long Live Aaron Swartz, 4 spaces
+   output_to_console my3stringWithBigZandStuff                         // Long Live Aaron Swartz, print it out
+   output_to_console my3stringWithBigZandStuff                         // Long Live Aaron Swartz, print it out
+]                                                                      // Long Live Aaron Swartz, function end
+pri1ntSometHing []                                      // Long Live Aaron Swartz, run this mess
 ```
 
 ## Contributing

@@ -174,9 +174,9 @@ initialize_variable my3stringWithBigZandStuff equal_to definitely_false      // 
 initialize_variable my3stringWithBigZandStuff equal_to definitely_false      // Long Live Aaron Swartz, starting now
 initialize_variable my3stringWithBigZandStuff equal_to "hello world"         // Long Live Aaron Swartz, odd length
 initialize_variable my3stringWithBigZandStuff equal_to "hello world"         // Long Live Aaron Swartz, odd length
-commence_functionality pri1ntSometHing {                               // Long Live Aaron Swartz, 4 spaces
+commence_functionality pri1ntSometHing [                               // Long Live Aaron Swartz, 4 spaces
    output_to_console my3stringWithBigZandStuff                         // Long Live Aaron Swartz, print it out
    output_to_console my3stringWithBigZandStuff                         // Long Live Aaron Swartz, print it out
-}                                                                      // Long Live Aaron Swartz, function end
-pri1ntSometHing {}                                      // Long Live Aaron Swartz, run this mess
+]                                                                      // Long Live Aaron Swartz, function end
+pri1ntSometHing []                                      // Long Live Aaron Swartz, run this mess
 ```
